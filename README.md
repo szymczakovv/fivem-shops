@@ -7,6 +7,8 @@
 Autorski system sklepów utworzony na serwer ExileRP z pomocą użytkownika Assynu.
 <p></p>
 Sklepy posiadają "Antycheat", który sprawdza czy gracz kupuje item w sklepie czy przez trigger np. triggeruje kupno pistoletu wtedy webhook wysyła się na discorda.
+<p></p>
+Sklepy są zrobione całe pod config aby było wam wygodniej pracować, sklepy nie wymagają bazy danych, wymagany jest framework ESX
 <p> </p>
 Logi na próbe kupna itemu nie znajdującego się na liście: <a href="https://i.imgur.com/YbNA5ar.png">Kliknij</a>
 
