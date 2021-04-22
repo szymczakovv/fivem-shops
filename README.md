@@ -7,6 +7,6 @@
 Autorski system sklepów utworzony na serwer ExileRP z pomocą użytkownika Assynu.
 Sklepy posiadają "Antycheat", który sprawdza czy gracz kupuje item w sklepie czy przez trigger np. triggeruje kupno pistoletu wtedy webhook wysyła się na discorda. Niżej screeny;
 <br></br>
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Szymczakovv" src="https://imgur.com/rfDLQPY">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Szymczakovv" src="https://i.imgur.com/YbNA5ar.png">  
 <br></br>
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Szymczakovv" src="https://imgur.com/YbNA5ar">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Szymczakovv" src="https://i.imgur.com/YbNA5ar.png">  
