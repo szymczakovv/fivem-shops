@@ -9,4 +9,4 @@ Sklepy posiadają "Antycheat", który sprawdza czy gracz kupuje item w sklepie c
 <p> </p>
 Logi na próbe kupna itemu nie znajdującego się na liście: <a href="https://i.imgur.com/YbNA5ar.png">Kliknij</a>
 
-Logi na kupno przedmiotu: <a href="https://i.imgur.com/YbNA5ar.png">https://i.imgur.com/oeTA4v2.png</a>
+Logi na kupno przedmiotu: <a href="https://i.imgur.com/oeTA4v2.png">Kliknij</a>
